@@ -1,0 +1,85 @@
+{
+  "hero": {
+    "name": "Yahya",
+    "currentStatus": "Studying Computer Science",
+    "tagline": "Passionate AI/ML Engineer",
+    "headshotUrl": "/public/images/my_img.jpeg"
+  },
+  
+  "about": {
+    "passions": ["Artificial Intelligence", "Machine Learning"]
+  },
+
+  "skills": [
+    {
+      "name": "C++",
+      "badgeUrl": "",
+      "githubRepoUrl": ""
+    },{
+      "name": "C++",
+      "badgeUrl": "",
+      "githubRepoUrl": ""
+    },{
+      "name": "C++",
+      "badgeUrl": "",
+      "githubRepoUrl": ""
+    }
+    
+  ],
+
+  "projects": [
+    {
+      "title": "",
+      "description": "",
+      "techStack": [""],
+      "demoUrl": "",
+      "repoUrl": "",
+      "screenshotUrl": ""
+    }
+  ],
+
+  "experience": [
+    {
+      "role": "",
+      "company": "",
+      "startDate": "YYYY-MM-DD",
+      "endDate": "YYYY-MM-DD | null",
+      "contributions": [""]
+    }
+  ],
+
+  "education": [
+    {
+      "degree": "",
+      "institution": "",
+      "gpa": "",          
+      "graduationDate": "YYYY-MM-DD",
+      "certifications": [
+        {
+          "name": "",
+          "provider": "",
+          "date": "YYYY-MM-DD",
+          "url": ""
+        }
+      ]
+    }
+  ],
+
+  "achievements": [
+    {
+      "title": "",
+      "description": "",
+      "date": "YYYY-MM-DD",
+      "url": ""         
+    }
+  ],
+
+  "contact": {
+    "email": "yahya94812@gmail.com",
+    "socialLinks": {
+      "linkedIn": "https://in.linkedin.com/in/mohammed-yahya-b8264630a",
+      "github": "https://github.com/yahya94812",
+      "twitter": "https://twitter.com/yahya94812"
+    }
+  }
+}
